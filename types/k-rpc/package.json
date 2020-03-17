@@ -1,0 +1,14 @@
+{
+  "name": "k-rpc-types",
+  "version": "0.1.0",
+  "description": "TypeScript definitions for k-rpc",
+  "types": "index.d.ts",
+  "author": "zcorw",
+  "license": "MIT",
+  "dependencies": {
+    "k-rpc": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.0"
+  }
+}
